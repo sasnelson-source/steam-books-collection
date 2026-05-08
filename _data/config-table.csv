@@ -1,5 +1,12 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+author,Author
+isbn,ISBN
+date,Copyright Date
+subject,STEAM Subject
+steam_theme,STEAM Theme
+grade_level,Grade Level
+summary,Summary
+activity_connection,Activity Connection
+learning_objective,Learning Objective
+activity_duration,Activity Duration
